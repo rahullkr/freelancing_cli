@@ -15,6 +15,10 @@
     "CLI",
     "productivity"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahullkr/freelancing_cli"
+  },
   "author": "Rahul Kumar",
   "license": "ISC",
   "dependencies": {
