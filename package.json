@@ -1,5 +1,5 @@
 {
-  "name": "freelancing-cli",
+  "name": "@rahullkr/freelancing-cli",
   "version": "1.0.0",
   "description": "A command-line tool for freelancers to track time spent on projects.",
   "main": "index.js",
